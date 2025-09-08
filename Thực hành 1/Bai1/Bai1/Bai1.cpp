@@ -11,7 +11,7 @@ int main() {
 		map<string, int> count;
 		int n = s.size();
 		for (int i = 0; i + 2 < n; i++) {
-			string boBa = s.substr(i, 3);
+			string boBa = s.substr(i, 3); 
 			count[boBa]++;
 		}
 		int kq = 0;

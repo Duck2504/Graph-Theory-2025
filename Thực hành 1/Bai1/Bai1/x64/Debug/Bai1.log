@@ -1,0 +1,3 @@
+﻿  Bai1.cpp
+E:\LTDT\Code\Thực hành 1\Bai1\Bai1\Bai1.cpp(12,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Bai1.vcxproj -> E:\LTDT\Code\Thực hành 1\Bai1\x64\Debug\Bai1.exe

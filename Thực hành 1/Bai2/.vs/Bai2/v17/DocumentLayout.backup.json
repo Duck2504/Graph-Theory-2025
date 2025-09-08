@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LTDT\\Code\\Th\u1EF1c h\u00E0nh 1\\Bai2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0A7B03-294D-47FA-B160-B37D812154EB}|Bai2\\Bai2.vcxproj|E:\\LTDT\\Code\\Th\u1EF1c h\u00E0nh 1\\Bai2\\Bai2\\Bai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F0A7B03-294D-47FA-B160-B37D812154EB}|Bai2\\Bai2.vcxproj|solutionrelative:Bai2\\Bai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai2.cpp",
+              "DocumentMoniker": "E:\\LTDT\\Code\\Th\u1EF1c h\u00E0nh 1\\Bai2\\Bai2\\Bai2.cpp",
+              "RelativeDocumentMoniker": "Bai2\\Bai2.cpp",
+              "ToolTip": "E:\\LTDT\\Code\\Th\u1EF1c h\u00E0nh 1\\Bai2\\Bai2\\Bai2.cpp*",
+              "RelativeToolTip": "Bai2\\Bai2.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-08T06:39:57.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

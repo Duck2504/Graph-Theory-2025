@@ -2,7 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Debug C++ (MSYS2)",
+            "name": "Run C++ in integrated terminal",
             "type": "cppdbg",
             "request": "launch",
             "program": "${fileDirname}/${fileBasenameNoExtension}.exe",
@@ -10,10 +10,10 @@
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
             "environment": [],
-            "externalConsole": true, 
+            "externalConsole": false,   // 🔥 chạy trong terminal tích hợp
             "MIMode": "gdb",
-            "miDebuggerPath": "C:/msys64/mingw64/bin/gdb.exe",
-            "preLaunchTask": "build active file"
+            "miDebuggerPath": "gdb",
+            "preLaunchTask": "run"
         }
     ]
 }

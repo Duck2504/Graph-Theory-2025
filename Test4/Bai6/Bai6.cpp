@@ -2,7 +2,7 @@
 using namespace std;
 
 vector<vector<int>> adj; 
-vector<int> visited;    
+vector<int> visited;
 vector<int> euler;       
 int n, m;             
 
